@@ -1,4 +1,4 @@
-package entities;
+package Course.src.entities;
 
 public class Department {
     private String name;

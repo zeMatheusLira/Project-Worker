@@ -1,4 +1,4 @@
-package entities;
+package Course.src.entities;
 
 import java.util.Date;
 
